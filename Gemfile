@@ -23,7 +23,7 @@ ruby File.read('.ruby-version').strip
 # gem 'activestorage' # Not used. Attaches cloud files to ActiveRecord.
 gem 'actionmailer', '~> 8.0.1' # Rails. Send email.
 gem 'actionpack', '~> 8.0.1' # Rails. MVC framework.
-gem 'actionview', '~> 8.0.1' # Rails. View.
+gem 'actionview', '~> 8.0.4' # Rails. View.
 gem 'activejob', '~> 8.0.1' # Rails. Async jobs.
 gem 'activemodel', '~> 8.0.1' # Rails. Model basics.
 gem 'activerecord', '~> 8.0.1' # Rails. ORM and query system.

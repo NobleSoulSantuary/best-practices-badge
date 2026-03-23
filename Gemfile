@@ -28,7 +28,7 @@ gem 'activejob', '~> 8.0.1' # Rails. Async jobs.
 gem 'activemodel', '~> 8.0.1' # Rails. Model basics.
 gem 'activerecord', '~> 8.0.1' # Rails. ORM and query system.
 # gem 'activestorage' # Not used. Attaches cloud files to ActiveRecord.
-gem 'activesupport', '~> 8.0.1' # Rails. Underlying library.
+gem 'activesupport', '~> 8.0.4' # Rails. Underlying library.
 # gem 'activetext' # Not used. Text editor that fails to support markdown.
 gem 'attr_encrypted', '~> 4'
 gem 'bcrypt', '~> 3.1.18' # Security - for salted hashed interacted passwords
